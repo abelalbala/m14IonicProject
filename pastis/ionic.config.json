@@ -1,0 +1,7 @@
+{
+  "name": "pastis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
